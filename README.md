@@ -10,7 +10,8 @@ In this notebook, I performed the following steps:
 - Checked the structure, missing values, and basic statistics
 - Visualized distributions of numeric and categorical columns
 - Analyzed survival rates based on gender, passenger class, and age
-- Detected outliers using boxplots and Z-score
+- Detected outliers using boxplots
+
 - Explored correlations between features using a heatmap
 
 ## 📊 Tools and Libraries Used
